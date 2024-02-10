@@ -1,0 +1,14 @@
+C:\Users\mtucsni\Desktop\c#\Core\6\bin\Debug\net8.0\6.exe
+C:\Users\mtucsni\Desktop\c#\Core\6\bin\Debug\net8.0\6.deps.json
+C:\Users\mtucsni\Desktop\c#\Core\6\bin\Debug\net8.0\6.runtimeconfig.json
+C:\Users\mtucsni\Desktop\c#\Core\6\bin\Debug\net8.0\6.dll
+C:\Users\mtucsni\Desktop\c#\Core\6\bin\Debug\net8.0\6.pdb
+C:\Users\mtucsni\Desktop\c#\Core\6\obj\Debug\net8.0\6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtucsni\Desktop\c#\Core\6\obj\Debug\net8.0\6.AssemblyInfoInputs.cache
+C:\Users\mtucsni\Desktop\c#\Core\6\obj\Debug\net8.0\6.AssemblyInfo.cs
+C:\Users\mtucsni\Desktop\c#\Core\6\obj\Debug\net8.0\6.csproj.CoreCompileInputs.cache
+C:\Users\mtucsni\Desktop\c#\Core\6\obj\Debug\net8.0\6.dll
+C:\Users\mtucsni\Desktop\c#\Core\6\obj\Debug\net8.0\refint\6.dll
+C:\Users\mtucsni\Desktop\c#\Core\6\obj\Debug\net8.0\6.pdb
+C:\Users\mtucsni\Desktop\c#\Core\6\obj\Debug\net8.0\6.genruntimeconfig.cache
+C:\Users\mtucsni\Desktop\c#\Core\6\obj\Debug\net8.0\ref\6.dll
