@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/EOE1Vd4BTHsc3jVivaCMcUUXchz6eEQ/AygYl54F4C699eMJjmw71TyagoXVQH/v9b/+waVaRCxlcve/KdHAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mtucsni\\Desktop\\c#\\LINQ\\1\\1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mtucsni\\.nuget\\packages\\mstest.testframework\\3.2.0\\mstest.testframework.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
